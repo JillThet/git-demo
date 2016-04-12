@@ -2,8 +2,6 @@ Ryan was here
 JILL WAS HERE
 Hello
 World
-This
-Is
 A
 Text
 File
