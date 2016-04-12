@@ -7,3 +7,4 @@ Text
 File
 that 
 is
+10 lines again
